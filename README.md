@@ -15,7 +15,7 @@ It works by approximating the full weight update using:
 
 $$ W = W_0 + \Delta W $$
 
-Instead of updating the full matrix, we only learn $ A $ and $ B $, keeping everything else frozen.
+Instead of updating the full matrix, we only learn `A` and `B`, keeping everything else frozen.
 
 ## Full Write-up
 
