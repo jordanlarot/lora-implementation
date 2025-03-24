@@ -4,7 +4,7 @@ This repo contains my personal implementation and understanding of [LoRA (Low-Ra
 
 ## Contents
 
-- `lora_implementation.ipynb` – Implementation of LoRA from scratch
+- `lora-implementation.ipynb` – Implementation of LoRA from scratch
 - `lora-from-scratch.md` – My personal write-up: theory, intuition, and code walkthrough
 
 ## Quick Overview
